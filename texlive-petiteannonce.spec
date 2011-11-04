@@ -1,3 +1,9 @@
+# revision 15878
+# category Package
+# catalog-ctan /macros/latex/contrib/petiteannonce
+# catalog-date 2008-08-23 00:06:02 +0200
+# catalog-license lppl
+# catalog-version 0.001
 Name:		texlive-petiteannonce
 Version:	0.001
 Release:	1
@@ -42,6 +48,7 @@ you can place contact details.
 %doc %{_texmfdistdir}/doc/latex/petiteannonce/petiteannonce.doc.tex
 %doc %{_texmfdistdir}/doc/latex/petiteannonce/petiteannonceexample.pdf
 %doc %{_texmfdistdir}/doc/latex/petiteannonce/petiteannonceexample.tex
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -52,3 +59,5 @@ you can place contact details.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}

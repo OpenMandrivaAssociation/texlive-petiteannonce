@@ -1,12 +1,12 @@
-# revision 15878
+# revision 25915
 # category Package
 # catalog-ctan /macros/latex/contrib/petiteannonce
-# catalog-date 2008-08-23 00:06:02 +0200
+# catalog-date 2012-04-11 15:11:02 +0200
 # catalog-license lppl
-# catalog-version 0.001
+# catalog-version 1.0001
 Name:		texlive-petiteannonce
-Version:	0.001
-Release:	2
+Version:	1.0001
+Release:	1
 Summary:	A class for small advertisements
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/petiteannonce

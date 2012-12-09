@@ -49,3 +49,21 @@ you can place contact details.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Mon Jun 11 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.0001-1
++ Revision: 805029
+- Update to latest release.
+
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.001-2
++ Revision: 754813
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 0.001-1
++ Revision: 719238
+- texlive-petiteannonce
+- texlive-petiteannonce
+- texlive-petiteannonce
+- texlive-petiteannonce
+

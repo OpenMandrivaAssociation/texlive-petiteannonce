@@ -6,7 +6,7 @@
 # catalog-version 1.0001
 Name:		texlive-petiteannonce
 Version:	1.0001
-Release:	10
+Release:	11
 Summary:	A class for small advertisements
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/petiteannonce

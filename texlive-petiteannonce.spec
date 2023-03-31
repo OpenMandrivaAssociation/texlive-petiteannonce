@@ -1,6 +1,6 @@
 Name:		texlive-petiteannonce
 Version:	25915
-Release:	1
+Release:	2
 Summary:	A class for small advertisements
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/petiteannonce

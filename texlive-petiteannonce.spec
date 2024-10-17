@@ -3,7 +3,7 @@ Version:	25915
 Release:	2
 Summary:	A class for small advertisements
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/petiteannonce
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/petiteannonce
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/petiteannonce.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/petiteannonce.doc.r%{version}.tar.xz
